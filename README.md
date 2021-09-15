@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola Me Presento 👋
+<p>Mi nombre es Jorge Baeza, pero me pueden llamar Giorgio o Jorge si prefieres ajaja</p>
 
 <!--
 **giorgiobaeza/giorgiobaeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
